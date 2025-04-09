@@ -1,7 +1,6 @@
  Why testing is important:
 
-✅ Ensures correctness – Verifies the software works as intended.
-
+✅ Ensures correctness – Verifies the software works as intended
 🐞 Finds bugs early – Detects issues before they reach users.
 
 🔐 Improves security – Identifies vulnerabilities.
@@ -13,3 +12,9 @@
 🙋‍♀️ Meets requirements – Ensures the software meets user and business needs.
 
 🌟 Builds trust – Increases customer satisfaction and confidence.
+
+❌ Myth: Testing is not needed if the code is perfect.
+✅ Reality: No code is perfect. Testing ensures hidden bugs are caught.
+
+❌ Myth: Only testers are responsible for quality.
+✅ Reality: Quality is a shared responsibility of the whole team.
